@@ -28,3 +28,12 @@
 .total-price{
     font-size: 25px;
 }
+
+.clear-cart{
+    font-size: 21px;
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FF3030;
+}

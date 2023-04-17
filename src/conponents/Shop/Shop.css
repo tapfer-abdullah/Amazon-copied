@@ -9,3 +9,13 @@
     gap: 50px;
     margin: 100px;
 }
+
+.order-review-btn button{
+    margin: 5px auto;
+    font-size: 21px;
+    width: 95%;
+    /* display: flex;
+    justify-content: space-between;
+    align-items: center; */
+    background-color: #FF9900;
+}

@@ -1,0 +1,15 @@
+.review-items-container {
+    
+    margin: 50px auto;
+    
+}
+
+.checkOut-btn button{
+    margin: 5px auto;
+    font-size: 21px;
+    width: 95%;
+    /* display: flex;
+    justify-content: space-between;
+    align-items: center; */
+    background-color: #FF9900;;
+}
